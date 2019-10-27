@@ -1,0 +1,180 @@
+c:\users\ppsp\documents\visual studio 2013\Projects\Kios UNI V.3\Kios UNI V.3\bin\Debug\Kios UNI V.3.exe.config
+c:\users\ppsp\documents\visual studio 2013\Projects\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.LogIn.resources
+c:\users\ppsp\documents\visual studio 2013\Projects\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Resources.resources
+c:\users\ppsp\documents\visual studio 2013\Projects\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios UNI V.3.vbproj.GenerateResource.Cache
+c:\users\ppsp\documents\visual studio 2013\Projects\Kios UNI V.3\Kios UNI V.3\bin\Debug\Kios UNI V.3.exe
+c:\users\ppsp\documents\visual studio 2013\Projects\Kios UNI V.3\Kios UNI V.3\bin\Debug\Kios UNI V.3.pdb
+c:\users\ppsp\documents\visual studio 2013\Projects\Kios UNI V.3\Kios UNI V.3\bin\Debug\Kios UNI V.3.xml
+c:\users\ppsp\documents\visual studio 2013\Projects\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios UNI V.3.exe
+c:\users\ppsp\documents\visual studio 2013\Projects\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios UNI V.3.xml
+c:\users\ppsp\documents\visual studio 2013\Projects\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios UNI V.3.pdb
+c:\users\ppsp\documents\visual studio 2013\Projects\Kios UNI V.3\Kios UNI V.3\bin\Debug\Mono.Security.dll
+c:\users\ppsp\documents\visual studio 2013\Projects\Kios UNI V.3\Kios UNI V.3\bin\Debug\Npgsql.dll
+c:\users\ppsp\documents\visual studio 2013\Projects\Kios UNI V.3\Kios UNI V.3\bin\Debug\policy.2.0.Npgsql.dll
+c:\users\ppsp\documents\visual studio 2013\Projects\Kios UNI V.3\Kios UNI V.3\bin\Debug\Npgsql.pdb
+c:\users\ppsp\documents\visual studio 2013\Projects\Kios UNI V.3\Kios UNI V.3\bin\Debug\Npgsql.xml
+c:\users\ppsp\documents\visual studio 2013\Projects\Kios UNI V.3\Kios UNI V.3\bin\Debug\de\Npgsql.resources.dll
+c:\users\ppsp\documents\visual studio 2013\Projects\Kios UNI V.3\Kios UNI V.3\bin\Debug\es\Npgsql.resources.dll
+c:\users\ppsp\documents\visual studio 2013\Projects\Kios UNI V.3\Kios UNI V.3\bin\Debug\fi\Npgsql.resources.dll
+c:\users\ppsp\documents\visual studio 2013\Projects\Kios UNI V.3\Kios UNI V.3\bin\Debug\fr\Npgsql.resources.dll
+c:\users\ppsp\documents\visual studio 2013\Projects\Kios UNI V.3\Kios UNI V.3\bin\Debug\ja\Npgsql.resources.dll
+c:\users\ppsp\documents\visual studio 2013\Projects\Kios UNI V.3\Kios UNI V.3\bin\Debug\zh-CN\Npgsql.resources.dll
+c:\users\ppsp\documents\visual studio 2013\Projects\Kios UNI V.3\Kios UNI V.3\bin\Debug\policy.2.0.Npgsql.config
+c:\users\ppsp\documents\visual studio 2013\Projects\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios UNI V.3.vbprojResolveAssemblyReference.cache
+c:\users\ppsp\documents\visual studio 2013\Projects\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Home.resources
+c:\users\ppsp\documents\visual studio 2013\Projects\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Buku.resources
+c:\users\ppsp\documents\visual studio 2013\Projects\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Buat.resources
+c:\users\ppsp\documents\visual studio 2013\Projects\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Data.resources
+C:\Users\PPSP\Documents\Visual Studio 2013\Projects\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.UbahSandi.resources
+C:\Users\PPSP\Documents\Visual Studio 2013\Projects\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Admin.resources
+C:\Users\PPSP\Documents\Visual Studio 2013\Projects\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.User.resources
+C:\Users\PPSP\Documents\Visual Studio 2013\Projects\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.SplashScreen1.resources
+C:\Users\PPSP\Documents\Visual Studio 2013\Projects\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Bantuan.resources
+H:\Kios UNI V.3\Kios UNI V.3\bin\Debug\Kios UNI V.3.exe.config
+H:\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios UNI V.3.exe
+H:\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios UNI V.3.xml
+H:\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios UNI V.3.pdb
+H:\Kios UNI V.3\Kios UNI V.3\bin\Debug\Kios UNI V.3.exe
+H:\Kios UNI V.3\Kios UNI V.3\bin\Debug\Kios UNI V.3.pdb
+H:\Kios UNI V.3\Kios UNI V.3\bin\Debug\Kios UNI V.3.xml
+H:\Kios UNI V.3\Kios UNI V.3\bin\Debug\Mono.Security.dll
+H:\Kios UNI V.3\Kios UNI V.3\bin\Debug\Npgsql.dll
+H:\Kios UNI V.3\Kios UNI V.3\bin\Debug\policy.2.0.Npgsql.dll
+H:\Kios UNI V.3\Kios UNI V.3\bin\Debug\Npgsql.pdb
+H:\Kios UNI V.3\Kios UNI V.3\bin\Debug\Npgsql.xml
+H:\Kios UNI V.3\Kios UNI V.3\bin\Debug\de\Npgsql.resources.dll
+H:\Kios UNI V.3\Kios UNI V.3\bin\Debug\es\Npgsql.resources.dll
+H:\Kios UNI V.3\Kios UNI V.3\bin\Debug\fi\Npgsql.resources.dll
+H:\Kios UNI V.3\Kios UNI V.3\bin\Debug\fr\Npgsql.resources.dll
+H:\Kios UNI V.3\Kios UNI V.3\bin\Debug\ja\Npgsql.resources.dll
+H:\Kios UNI V.3\Kios UNI V.3\bin\Debug\zh-CN\Npgsql.resources.dll
+H:\Kios UNI V.3\Kios UNI V.3\bin\Debug\policy.2.0.Npgsql.config
+H:\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios UNI V.3.vbprojResolveAssemblyReference.cache
+H:\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Admin.resources
+H:\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Buat.resources
+H:\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Buku.resources
+H:\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Data.resources
+H:\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Bantuan.resources
+H:\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Home.resources
+H:\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.LogIn.resources
+H:\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Resources.resources
+H:\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.SplashScreen1.resources
+H:\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.UbahSandi.resources
+H:\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.User.resources
+H:\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios UNI V.3.vbproj.GenerateResource.Cache
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\bin\Debug\Kios UNI V.3.exe.config
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios UNI V.3.exe
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios UNI V.3.xml
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios UNI V.3.pdb
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\bin\Debug\Kios UNI V.3.exe
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\bin\Debug\Kios UNI V.3.pdb
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\bin\Debug\Kios UNI V.3.xml
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\bin\Debug\Npgsql.pdb
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\bin\Debug\Npgsql.xml
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\bin\Debug\de\Npgsql.resources.dll
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\bin\Debug\es\Npgsql.resources.dll
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\bin\Debug\policy.2.0.Npgsql.config
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios UNI V.3.vbprojResolveAssemblyReference.cache
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Admin.resources
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Buat.resources
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Buku.resources
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Data.resources
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Bantuan.resources
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Home.resources
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.LogIn.resources
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Resources.resources
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.SplashScreen1.resources
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.UbahSandi.resources
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.User.resources
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios UNI V.3.vbproj.GenerateResource.Cache
+C:\PostgreSQL\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\bin\Debug\Kios UNI V.3.exe.config
+C:\PostgreSQL\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios UNI V.3.exe
+C:\PostgreSQL\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios UNI V.3.xml
+C:\PostgreSQL\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios UNI V.3.pdb
+C:\PostgreSQL\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\bin\Debug\Kios UNI V.3.exe
+C:\PostgreSQL\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\bin\Debug\Kios UNI V.3.pdb
+C:\PostgreSQL\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\bin\Debug\Kios UNI V.3.xml
+C:\PostgreSQL\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\bin\Debug\Npgsql.pdb
+C:\PostgreSQL\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\bin\Debug\Npgsql.xml
+C:\PostgreSQL\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\bin\Debug\de\Npgsql.resources.dll
+C:\PostgreSQL\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\bin\Debug\es\Npgsql.resources.dll
+C:\PostgreSQL\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\bin\Debug\fi\Npgsql.resources.dll
+C:\PostgreSQL\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\bin\Debug\fr\Npgsql.resources.dll
+C:\PostgreSQL\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\bin\Debug\ja\Npgsql.resources.dll
+C:\PostgreSQL\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\PostgreSQL\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\bin\Debug\policy.2.0.Npgsql.config
+C:\PostgreSQL\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios UNI V.3.vbprojResolveAssemblyReference.cache
+C:\PostgreSQL\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Admin.resources
+C:\PostgreSQL\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Buat.resources
+C:\PostgreSQL\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Buku.resources
+C:\PostgreSQL\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Data.resources
+C:\PostgreSQL\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Bantuan.resources
+C:\PostgreSQL\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Home.resources
+C:\PostgreSQL\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.LogIn.resources
+C:\PostgreSQL\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Resources.resources
+C:\PostgreSQL\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.SplashScreen1.resources
+C:\PostgreSQL\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.UbahSandi.resources
+C:\PostgreSQL\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.User.resources
+C:\PostgreSQL\Dropbox\Kios UNI App\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios UNI V.3.vbproj.GenerateResource.Cache
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Project\Kios UNI V.3\Kios UNI V.3\bin\Debug\Kios UNI V.3.exe.config
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Project\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios UNI V.3.exe
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Project\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios UNI V.3.xml
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Project\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios UNI V.3.pdb
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Project\Kios UNI V.3\Kios UNI V.3\bin\Debug\Kios UNI V.3.exe
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Project\Kios UNI V.3\Kios UNI V.3\bin\Debug\Kios UNI V.3.pdb
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Project\Kios UNI V.3\Kios UNI V.3\bin\Debug\Kios UNI V.3.xml
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Project\Kios UNI V.3\Kios UNI V.3\bin\Debug\Npgsql.pdb
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Project\Kios UNI V.3\Kios UNI V.3\bin\Debug\Npgsql.xml
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Project\Kios UNI V.3\Kios UNI V.3\bin\Debug\de\Npgsql.resources.dll
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Project\Kios UNI V.3\Kios UNI V.3\bin\Debug\es\Npgsql.resources.dll
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Project\Kios UNI V.3\Kios UNI V.3\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Project\Kios UNI V.3\Kios UNI V.3\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Project\Kios UNI V.3\Kios UNI V.3\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Project\Kios UNI V.3\Kios UNI V.3\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Project\Kios UNI V.3\Kios UNI V.3\bin\Debug\policy.2.0.Npgsql.config
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Project\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios UNI V.3.vbprojResolveAssemblyReference.cache
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Project\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Admin.resources
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Project\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Buat.resources
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Project\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Buku.resources
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Project\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Data.resources
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Project\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Bantuan.resources
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Project\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Home.resources
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Project\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.LogIn.resources
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Project\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Resources.resources
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Project\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.SplashScreen1.resources
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Project\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.UbahSandi.resources
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Project\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.User.resources
+C:\Users\IAMRUNNER\Dropbox\Kios UNI App\Project\Kios UNI V.3\Kios UNI V.3\obj\Debug\Kios UNI V.3.vbproj.GenerateResource.Cache
+C:\Users\IAMRUNNER\Documents\Visual Studio 2012\Projects\Kios UNI V.3.1\Kios UNI V.3\bin\Debug\Kios UNI V.3.exe.config
+C:\Users\IAMRUNNER\Documents\Visual Studio 2012\Projects\Kios UNI V.3.1\Kios UNI V.3\obj\Debug\Kios UNI V.3.exe
+C:\Users\IAMRUNNER\Documents\Visual Studio 2012\Projects\Kios UNI V.3.1\Kios UNI V.3\obj\Debug\Kios UNI V.3.xml
+C:\Users\IAMRUNNER\Documents\Visual Studio 2012\Projects\Kios UNI V.3.1\Kios UNI V.3\obj\Debug\Kios UNI V.3.pdb
+C:\Users\IAMRUNNER\Documents\Visual Studio 2012\Projects\Kios UNI V.3.1\Kios UNI V.3\bin\Debug\Kios UNI V.3.exe
+C:\Users\IAMRUNNER\Documents\Visual Studio 2012\Projects\Kios UNI V.3.1\Kios UNI V.3\bin\Debug\Kios UNI V.3.pdb
+C:\Users\IAMRUNNER\Documents\Visual Studio 2012\Projects\Kios UNI V.3.1\Kios UNI V.3\bin\Debug\Kios UNI V.3.xml
+C:\Users\IAMRUNNER\Documents\Visual Studio 2012\Projects\Kios UNI V.3.1\Kios UNI V.3\bin\Debug\Npgsql.pdb
+C:\Users\IAMRUNNER\Documents\Visual Studio 2012\Projects\Kios UNI V.3.1\Kios UNI V.3\bin\Debug\Npgsql.xml
+C:\Users\IAMRUNNER\Documents\Visual Studio 2012\Projects\Kios UNI V.3.1\Kios UNI V.3\bin\Debug\de\Npgsql.resources.dll
+C:\Users\IAMRUNNER\Documents\Visual Studio 2012\Projects\Kios UNI V.3.1\Kios UNI V.3\bin\Debug\es\Npgsql.resources.dll
+C:\Users\IAMRUNNER\Documents\Visual Studio 2012\Projects\Kios UNI V.3.1\Kios UNI V.3\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\IAMRUNNER\Documents\Visual Studio 2012\Projects\Kios UNI V.3.1\Kios UNI V.3\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\IAMRUNNER\Documents\Visual Studio 2012\Projects\Kios UNI V.3.1\Kios UNI V.3\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\IAMRUNNER\Documents\Visual Studio 2012\Projects\Kios UNI V.3.1\Kios UNI V.3\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\IAMRUNNER\Documents\Visual Studio 2012\Projects\Kios UNI V.3.1\Kios UNI V.3\bin\Debug\policy.2.0.Npgsql.config
+C:\Users\IAMRUNNER\Documents\Visual Studio 2012\Projects\Kios UNI V.3.1\Kios UNI V.3\obj\Debug\Kios UNI V.3.vbprojResolveAssemblyReference.cache
+C:\Users\IAMRUNNER\Documents\Visual Studio 2012\Projects\Kios UNI V.3.1\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Admin.resources
+C:\Users\IAMRUNNER\Documents\Visual Studio 2012\Projects\Kios UNI V.3.1\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Buat.resources
+C:\Users\IAMRUNNER\Documents\Visual Studio 2012\Projects\Kios UNI V.3.1\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Buku.resources
+C:\Users\IAMRUNNER\Documents\Visual Studio 2012\Projects\Kios UNI V.3.1\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Data.resources
+C:\Users\IAMRUNNER\Documents\Visual Studio 2012\Projects\Kios UNI V.3.1\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Bantuan.resources
+C:\Users\IAMRUNNER\Documents\Visual Studio 2012\Projects\Kios UNI V.3.1\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Home.resources
+C:\Users\IAMRUNNER\Documents\Visual Studio 2012\Projects\Kios UNI V.3.1\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.LogIn.resources
+C:\Users\IAMRUNNER\Documents\Visual Studio 2012\Projects\Kios UNI V.3.1\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.Resources.resources
+C:\Users\IAMRUNNER\Documents\Visual Studio 2012\Projects\Kios UNI V.3.1\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.SplashScreen1.resources
+C:\Users\IAMRUNNER\Documents\Visual Studio 2012\Projects\Kios UNI V.3.1\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.UbahSandi.resources
+C:\Users\IAMRUNNER\Documents\Visual Studio 2012\Projects\Kios UNI V.3.1\Kios UNI V.3\obj\Debug\Kios_UNI_V._3.User.resources
+C:\Users\IAMRUNNER\Documents\Visual Studio 2012\Projects\Kios UNI V.3.1\Kios UNI V.3\obj\Debug\Kios UNI V.3.vbproj.GenerateResource.Cache
